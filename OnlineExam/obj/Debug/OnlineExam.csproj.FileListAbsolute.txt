@@ -1,0 +1,153 @@
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\OnlineExam.dll.config
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\OnlineExam.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\OnlineExam.pdb
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Antlr3.Runtime.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\EntityFramework.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\EntityFramework.SqlServer.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.Owin.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Google.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.Web.Infrastructure.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Newtonsoft.Json.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Owin.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\System.Web.Optimization.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\System.Web.Providers.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\WebGrease.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\System.Web.Optimization.xml
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Antlr3.Runtime.pdb
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Newtonsoft.Json.xml
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\EntityFramework.xml
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\EntityFramework.SqlServer.xml
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.Owin.xml
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.xml
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Google.xml
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\obj\Debug\OnlineExam.dll
+c:\users\anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\obj\Debug\OnlineExam.pdb
+C:\Users\Anowar\documents\visual studio 2013\Projects\OnlineExam\OnlineExam\obj\Debug\OnlineExam.csprojResolveAssemblyReference.cache
+E:\OnlineExam\OnlineExam\bin\OnlineExam.dll.config
+E:\OnlineExam\OnlineExam\bin\OnlineExam.dll
+E:\OnlineExam\OnlineExam\bin\OnlineExam.pdb
+E:\OnlineExam\OnlineExam\bin\Antlr3.Runtime.dll
+E:\OnlineExam\OnlineExam\bin\AspNet.ScriptManager.bootstrap.dll
+E:\OnlineExam\OnlineExam\bin\AspNet.ScriptManager.jQuery.dll
+E:\OnlineExam\OnlineExam\bin\EntityFramework.dll
+E:\OnlineExam\OnlineExam\bin\EntityFramework.SqlServer.dll
+E:\OnlineExam\OnlineExam\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Identity.Core.dll
+E:\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\OnlineExam\OnlineExam\bin\Microsoft.Owin.dll
+E:\OnlineExam\OnlineExam\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Cookies.dll
+E:\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.dll
+E:\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Facebook.dll
+E:\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Google.dll
+E:\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.OAuth.dll
+E:\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Twitter.dll
+E:\OnlineExam\OnlineExam\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\OnlineExam\OnlineExam\bin\Microsoft.ScriptManager.WebForms.dll
+E:\OnlineExam\OnlineExam\bin\Microsoft.Web.Infrastructure.dll
+E:\OnlineExam\OnlineExam\bin\Newtonsoft.Json.dll
+E:\OnlineExam\OnlineExam\bin\Owin.dll
+E:\OnlineExam\OnlineExam\bin\System.Web.Optimization.dll
+E:\OnlineExam\OnlineExam\bin\System.Web.Providers.dll
+E:\OnlineExam\OnlineExam\bin\WebGrease.dll
+E:\OnlineExam\OnlineExam\bin\System.Web.Optimization.xml
+E:\OnlineExam\OnlineExam\bin\Antlr3.Runtime.pdb
+E:\OnlineExam\OnlineExam\bin\Newtonsoft.Json.xml
+E:\OnlineExam\OnlineExam\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\OnlineExam\OnlineExam\bin\EntityFramework.xml
+E:\OnlineExam\OnlineExam\bin\EntityFramework.SqlServer.xml
+E:\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Identity.Core.xml
+E:\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\OnlineExam\OnlineExam\bin\Microsoft.Owin.xml
+E:\OnlineExam\OnlineExam\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.xml
+E:\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Facebook.xml
+E:\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Cookies.xml
+E:\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Google.xml
+E:\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Twitter.xml
+E:\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.OAuth.xml
+E:\OnlineExam\OnlineExam\obj\Debug\OnlineExam.csprojResolveAssemblyReference.cache
+E:\OnlineExam\OnlineExam\obj\Debug\OnlineExam.dll
+E:\OnlineExam\OnlineExam\obj\Debug\OnlineExam.pdb
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\OnlineExam.dll.config
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\OnlineExam.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\OnlineExam.pdb
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Antlr3.Runtime.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\EntityFramework.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\EntityFramework.SqlServer.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.Owin.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Newtonsoft.Json.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Owin.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\System.Web.Optimization.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\System.Web.Providers.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\WebGrease.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\System.Web.Optimization.xml
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Antlr3.Runtime.pdb
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Newtonsoft.Json.xml
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\EntityFramework.xml
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\EntityFramework.SqlServer.xml
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.Owin.xml
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.xml
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\obj\Debug\OnlineExam.csprojResolveAssemblyReference.cache
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\obj\Debug\OnlineExam.dll
+C:\Users\Anowar\Desktop\OnlineExam\OnlineExam\obj\Debug\OnlineExam.pdb
